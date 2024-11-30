@@ -1,0 +1,24 @@
+h3 {
+    color: brown;
+}
+
+/* Id selector */
+#p1 {
+    color: aqua;
+}
+
+/* class selector*/
+.p2 {
+    color: rgb(215, 215, 250);
+}
+
+/* group selector*/
+h3,
+h1 {
+    background-color: chocolate;
+}
+
+/*universal selector*/
+* {
+    background-color: blue;
+}
